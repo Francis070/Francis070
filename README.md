@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Francis070
-- 👀 I’m interested in Development and Competitive Programming.
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on any project related to development.
+- 👋 Hi, I’m Abhijit Mukherjee
+- 👀 I’m interested in Data Analysis, ML, AI and Competitive Programming.
+- 🌱 I’m currently learning Python and Machine Learning.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me, my mail id is amiabhijit54@gmail.com
 
 <!---
